@@ -113,3 +113,18 @@
 //     console.log(Math.round(Math.random() * rollNum))
 // }
 // rollDice(20)
+
+
+
+
+// 6. Funcion swap
+
+
+const array = ['Mesirve', 'Cristiano Romualdo', 'Fernando Muralla', 'Ronalguiño']
+
+
+function swap(arr, i1, i2) {
+    [arr[i1], arr[i2]] = [arr[i2], arr[i1]];
+    console.log(arr)
+}
+swap(array, 0, 1)
