@@ -103,3 +103,13 @@
 // }
 
 // findArrayIndex(textos, "Salamandra")
+
+
+
+
+// 5. Funcion rollDice
+
+// function rollDice(rollNum) {
+//     console.log(Math.round(Math.random() * rollNum))
+// }
+// rollDice(20)
